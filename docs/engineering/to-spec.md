@@ -6,7 +6,7 @@ It does not interview you. By the time you reach for it the deciding is already 
 
 ## When to reach for it
 
-You invoke this by typing `/to-spec`; the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) won't reach for it on its own.
+Type `/to-spec`, or the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) reaches for it when the conversation needs to become a durable spec.
 
 Reach for it when the build is too big for one agent [session](https://www.aihero.dev/ai-coding-dictionary/session) and has to survive being split across several. That is the whole trigger:
 

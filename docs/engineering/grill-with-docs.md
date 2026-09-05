@@ -6,7 +6,7 @@ It is **[stateful](https://www.aihero.dev/ai-coding-dictionary/stateful)**. Ever
 
 ## When to reach for it
 
-You invoke this by typing `/grill-with-docs`; the agent will not reach for it on its own.
+Type `/grill-with-docs`, or the agent reaches for it when a repo's plan and terminology need sharpening together.
 
 Reach for it at the start of a change, in a repo, when the plan is still fuzzy and the words for the thing are not settled yet. It is the single-session tool. Which grilling skill you want depends on what is in front of you:
 
